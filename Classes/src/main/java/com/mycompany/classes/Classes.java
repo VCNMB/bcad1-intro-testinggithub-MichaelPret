@@ -11,6 +11,13 @@ package com.mycompany.classes;
 public class Classes {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        newCLASS nc = new newCLASS(); //reating an object of newCLASS
+        
+        nc.helloClass();  //have to use variable naem nc to communicate with the class
+        
+        System.out.println(nc.strSecondClass); // output variable from 2nd class
+        
     }
+    
 }
