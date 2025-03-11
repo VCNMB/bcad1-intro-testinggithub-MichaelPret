@@ -16,7 +16,7 @@ public class Classes {
         
         nc.helloClass();  //have to use variable naem nc to communicate with the class
         
-        System.out.println(nc.strSecondClass); // output variable from 2nd class
+        System.out.println(nc.strSecondClass); // output variable from 2nd classl
         
     }
     
